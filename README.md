@@ -1,9 +1,3 @@
-# 263480236
-## Thành viên
-- Đặng Tiến Dũng - B21DCCN263
-- Mai Văn Lịch - B21DCCN480  
-- Đặng Minh Đức - B21DCCN236
-
 # 🎮 Game bắn súng Battle Royale
 Game bắn súng 2D nhiều người chơi, hỗ trợ chơi online qua mạng LAN.
 
